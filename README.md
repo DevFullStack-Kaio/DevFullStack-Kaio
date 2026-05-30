@@ -28,13 +28,16 @@ Demonstração de uso de APIs e visualização de dados.
 Exploração de componentes e hooks do React.  
 **Tecnologias:** ![React](https://img.shields.io/badge/React-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-### ⚙️ [Projeto Engenharia do caos](https://github.com/DevFullStack-Kaio/Projeto-Engenharia-do-Caos-com-Docker-Flask-e-Redis))
+### ⚙️ [Projeto Engenharia do caos](https://github.com/DevFullStack-Kaio/Projeto-Engenharia-do-Caos-com-Docker-Flask-e-Redis)
 Projeto que procura testar resiliência de sistemas, antecipar erros, que possa acontecer.  
 **Tecnologias:** ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express](https://img.shields.io/badge/Express-black) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 
-### 🎨 [Linguagem CSS](https://github.com/DevFullStack-Kaio/linguagem-CSS)
-Experimentos e práticas com CSS.  
-**Tecnologias:** ![CSS](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/HTML-orange)
+### 🎨 [E-Commerce](https://github.com/DevFullStack-Kaio/projeto-ecommerce-docker-flask-redis-postgres)
+Exercício prático de arquitetura de sistemas para simular um e-commerce: adicionando, alterando e excluindo produtos do carrinho de compras.  
+**Tecnologias:** ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 
 ---
 
