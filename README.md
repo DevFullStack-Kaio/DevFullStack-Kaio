@@ -7,7 +7,7 @@ Atualmente, estou focado em projetos que unem programação, inovação e impact
 
 ## 🚀 Projetos em destaque
 
-### 🧠 [Portfólio] [https://devfullstack-kaio.github.io/portfolio_atualizado/]
+### 🧠 Portfólio [https://devfullstack-kaio.github.io/portfolio_atualizado/]
 Aplicação desenvolvida em que demonstro o objetivo atual, formação, cursos, idioma, habilidades com hipelinks, alguns projetos, contato.
 **Tecnologias:** ![HTML](https://img.shields.io/badge/HTML-orange) 
 ![CSS](https://img.shields.io/badge/CSS-blue) 
