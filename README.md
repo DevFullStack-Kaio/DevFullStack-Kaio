@@ -28,9 +28,9 @@ Demonstração de uso de APIs e visualização de dados.
 Exploração de componentes e hooks do React.  
 **Tecnologias:** ![React](https://img.shields.io/badge/React-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-### 📚 [Javascript Labs](https://github.com/DevFullStack-Kaio/javascript-labs)
-Conjunto de exercícios e práticas em JavaScript.  
-**Tecnologias:** ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![HTML](https://img.shields.io/badge/HTML-orange)
+### ⚙️ [Projeto Engenharia do caos](https://github.com/DevFullStack-Kaio/Projeto-Engenharia-do-Caos-com-Docker-Flask-e-Redis))
+Projeto que procura testar resiliência de sistemas, antecipar erros, que possa acontecer.  
+**Tecnologias:** ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express](https://img.shields.io/badge/Express-black) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 
 ### 🎨 [Linguagem CSS](https://github.com/DevFullStack-Kaio/linguagem-CSS)
 Experimentos e práticas com CSS.  
