@@ -9,7 +9,7 @@ Atualmente, estou focado em projetos que unem programação, inovação e impact
 
 Além dos meus projetos técnicos, mantenho uma curadoria de cursos e certificações gratuitos em tecnologia, pesquisas e ciências, para variadas áreas do conhecimento, vale a pena navegar!!
 
-👉 Confira o repositório [Cursos Gratuitos de Tecnologia](https://github.com/DevFullStack-Kaio/cursos-gratuitos-tecnologia)
+👉 Confira o repositório [Cursos Gratuitos de Tecnologia e variadas areas do conhecimento](https://github.com/DevFullStack-Kaio/cursos-gratuitos-tecnologia)
 [![Portfólio Técnico](https://img.shields.io/badge/Portfólio-Técnico-green)](https://github.com/DevFullStack-Kaio/DevFullStack-Kaio)
 
 
