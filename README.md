@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Vanderlei Silva (Kaio)
 
 Sou desenvolvedor **Full Stack** apaixonado por tecnologia, esportes e questões ambientais.  
-Atualmente, estou focado em projetos que unem programação, inovação e impacto social.
+Atualmente, estou focado em projetos que possa unir programação, inovação e impacto social.
 
 ---
 
