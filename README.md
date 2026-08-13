@@ -41,7 +41,8 @@ Projeto que procura testar resiliência de sistemas, antecipar erros, que possa 
 **Tecnologias:** ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express](https://img.shields.io/badge/Express-black) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 
 ### 🎨 [E-Commerce](https://github.com/DevFullStack-Kaio/projeto-ecommerce-docker-flask-redis-postgres)
-Exercício prático de arquitetura de sistemas para simular um e-commerce: adicionando, alterando e excluindo produtos do carrinho de compras. O projeto simula um e-commerce com carrinho de compras, persistência de dados e cache, explorando boas práticas de containerização e integração entre serviços. 
+Exercício prático de arquitetura de sistemas para simular um e-commerce: adicionando, alterando e excluindo produtos do carrinho de compras. O projeto simula um e-commerce com carrinho de compras, persistência de dados e cache, explorando boas práticas de containerização e integração entre serviços.
+
 **Tecnologias:** ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) 
@@ -62,13 +63,14 @@ Funcionalidades:
 Frontend simples para interação
 ---
 ## 🛠️ Tecnologias Utilizadas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Knex.js](https://img.shields.io/badge/Knex.js-FF6600?style=for-the-badge&logo=knex.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-FF6600?style=flat&logo=knex.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 
 ## 🛠️ Tecnologias e Ferramentas
