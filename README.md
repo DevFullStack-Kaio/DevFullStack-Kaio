@@ -47,7 +47,30 @@ Exercício prático de arquitetura de sistemas para simular um e-commerce: adici
 ![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 
+### 🚀[Lista de Produtos] (https://devfullstack-kaio.github.io/Lista_Produtos/)
+Descrição:  
+Aplicação para cadastro e listagem de produtos, desenvolvida em Node.js, Express, SQLite, HTML, CSS e JavaScript.
+O projeto foi criado para aprendizado em APIs REST, migrations, seeds e integração com frontend simples.
+
+Diferencial:  
+Este projeto funciona em dois modos:
+Dinâmico (API + Frontend): executado localmente com Node.js, consumindo a API em /api/v1/produtos.
+Estático (GitHub Pages): versão estática com tabela de produtos já preenchida no HTML, ideal para publicação rápida sem backend.
+Funcionalidades:
+- Cadastro e listagem de produtos
+- Criação de listas de produtos
+- API REST com versões (v1 e v2)
+Frontend simples para interação
 ---
+## 🛠️ Tecnologias Utilizadas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-FF6600?style=for-the-badge&logo=knex.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML](https://img.shields.io/badge/HTML-orange) 
