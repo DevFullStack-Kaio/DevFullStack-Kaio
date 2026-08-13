@@ -47,11 +47,10 @@ Exercício prático de arquitetura de sistemas para simular um e-commerce: adici
 ![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 
-### 🚀[Lista de Produtos] (https://devfullstack-kaio.github.io/Lista_Produtos/)
+### 🚀[Lista de Produtos](https://devfullstack-kaio.github.io/Lista_Produtos/)
 Descrição:  
 Aplicação para cadastro e listagem de produtos, desenvolvida em Node.js, Express, SQLite, HTML, CSS e JavaScript.
 O projeto foi criado para aprendizado em APIs REST, migrations, seeds e integração com frontend simples.
-
 Diferencial:  
 Este projeto funciona em dois modos:
 Dinâmico (API + Frontend): executado localmente com Node.js, consumindo a API em /api/v1/produtos.
