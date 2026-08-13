@@ -17,8 +17,7 @@ Além dos meus projetos técnicos, mantenho uma curadoria de cursos e certifica�
 
 ### 🧠 [Portfólio](https://github.com/DevFullStack-Kaio/portfolio_atualizado)
 Aplicação desenvolvida em que demonstro o objetivo atual, formação, cursos, idiomas, habilidades com hipelinks, alguns projetos, contato.
-**Tecnologias:** ![HTML](https://img.shields.io/badge/HTML-orange) 
-![CSS](https://img.shields.io/badge/CSS-blue) 
+**Tecnologias:** ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) 
 
 ### 🌍 [Geolocalização](https://github.com/DevFullStack-Kaio/GEOLOCALIZACAO)
 Aplicação para auxiliar pequenos produtores a prever chuvas e estiagem.  
@@ -42,10 +41,8 @@ Projeto que procura testar resiliência de sistemas, antecipar erros, que possa 
 
 ### 🎨 [E-Commerce](https://github.com/DevFullStack-Kaio/projeto-ecommerce-docker-flask-redis-postgres)
 Exercício prático de arquitetura de sistemas para simular um e-commerce: adicionando, alterando e excluindo produtos do carrinho de compras. O projeto simula um e-commerce com carrinho de compras, persistência de dados e cache, explorando boas práticas de containerização e integração entre serviços.
-
 **Tecnologias:** ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 
 ### 🚀[Lista de Produtos](https://devfullstack-kaio.github.io/Lista_Produtos/)
 Descrição:  
@@ -59,7 +56,7 @@ Funcionalidades:
 - Cadastro e listagem de produtos
 - Criação de listas de produtos
 - API REST com versões (v1 e v2)
-Frontend simples para interação
+Frontend simples para interação.
 ##Tecnologias:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Knex.js](https://img.shields.io/badge/Knex.js-FF6600?style=flat&logo=knex.js&logoColor=white)
