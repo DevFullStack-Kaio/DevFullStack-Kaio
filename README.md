@@ -61,9 +61,7 @@ Funcionalidades:
 - Criação de listas de produtos
 - API REST com versões (v1 e v2)
 Frontend simples para interação
----
-## 🛠️ Tecnologias Utilizadas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+##Tecnologias:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-FF6600?style=flat&logo=knex.js&logoColor=white)
@@ -71,9 +69,9 @@ Frontend simples para interação
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
 
-
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas 
 ![HTML](https://img.shields.io/badge/HTML-orange) 
 ![CSS](https://img.shields.io/badge/CSS-blue) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) 
